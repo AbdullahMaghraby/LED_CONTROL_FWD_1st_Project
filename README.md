@@ -7,4 +7,4 @@ FWD First Project Control LED using Timer with Same effect as PWM
 
 # Folders Arrangement
 
-![](/folders arrangement.png "folders arrangement")
+![](/foldersarrangement.png "folders arrangement")
